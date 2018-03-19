@@ -1,2 +1,2 @@
 # hello-world
-exercises
+exercises and simple coding examples
